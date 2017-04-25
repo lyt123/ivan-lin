@@ -1,6 +1,6 @@
 <?php
 
-namespace Laravist\Hasher;
+namespace Ivanlin\Hasher;
 
 use Illuminate\Support\ServiceProvider;
 
