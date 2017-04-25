@@ -1,5 +1,5 @@
 {
-    "name": "ivan/hasher",
+    "name": "IvanLin/hasher",
     "description": "Md5 support",
     "license": "MIT",
     "authors": [
@@ -12,7 +12,7 @@
     "require": {},
     "autoload" : {
       "psr-4" : {
-        "IvanLin\\Hasher" : "src/"
+        "IvanLin\\hasher" : "src/"
       }
     }
 }
