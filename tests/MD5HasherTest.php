@@ -1,4 +1,5 @@
 <?php
+
 class MD5HasherTest extends \PHPUnit\Framework\TestCase
 {
     protected $hasher;

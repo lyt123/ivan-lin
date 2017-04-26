@@ -23,8 +23,8 @@ class MD5HasherProvider extends ServiceProvider
      */
     public function register()
     {
-        $this->app->singleton('md5hash', function(){
-           return new MD5Hasher();
+        $this->app->singleton('md5hash', function () {
+            return new MD5Hasher();
         });//app('md5hash');
     }
 }
